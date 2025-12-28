@@ -5,6 +5,8 @@ May the brute force be with you.
 ```
 [Kali Linux视频教程汇总](https://space.bilibili.com/29302915/favlist?fid=205129215&ftype=create)
 
+
+最新网址： https://czwstc.github.io/-/topspeedsnail.com/index.html
 ### 密码破解
 
 * [使用Hydra通过ssh破解密码](http://topspeedsnail.com/kydra-crack-ssh-and-avoid-attack/)
