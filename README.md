@@ -70,7 +70,7 @@ May the brute force be with you.
 
 ### 免杀
 
-* [关于杀毒软件](http://topspeedsnail.com/antivirus-software-working/)
+* [关于杀毒软件](http://topspeedsnail.com/antivirus-software-working/)  --该链接疑似已经实现且存在木马病毒
 
 ### 逆向工程
 
